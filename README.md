@@ -21,4 +21,4 @@ Logs and monitoring scripts included for safe analysis
 
 Important Note:
 This repository does not contain any methods for bypassing or exploiting FortiEDR or other security software. It is purely for safe, educational, and research purposes.
---start
+--update
